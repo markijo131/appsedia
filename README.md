@@ -1,0 +1,2 @@
+# appsedia
+aplikasi persediaan barang
